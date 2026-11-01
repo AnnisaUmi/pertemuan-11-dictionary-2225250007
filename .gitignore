@@ -1,0 +1,31 @@
+
+## 2. `.gitignore`
+
+```gitignore
+# ==========================================
+# PERTEMUAN 11 | DICTIONARY / MAP
+# Annisa Umi Solihat | 2225250007 | Kelas 3F
+# ==========================================
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Editor
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
